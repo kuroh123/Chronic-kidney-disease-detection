@@ -1,0 +1,12 @@
+wbc - increased
+bgr - decreased
+blood urea - increased
+creatinine - increased
+pcv - decreased
+albumin - increased
+haemoglobin - decreased
+sugar - independent
+hypertension - yes
+age - independent
+
+for CKD patients
